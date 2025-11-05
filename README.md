@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 align="center">Heng Sun, B.S. --- Computer Science & Biomedical Research</h1>  
+  <h1>Heng Sun, B.S. --- Computer Science & Biomedical Research</h1>  
   <h4>🎓 B.S. in Computer Science (University of Florida) | Seeking Ph.D. in CS/BME, Fall 2026.</h4>
   <h4>💡 Research Specialist in Biomedical Engineering (UF BME) | Focused on applying Machine Learning and Human-Centered Computing to Healthcare Systems.</h4>
-  <h4>🤖 Interested in developing **robust ML models**, **human-computer interaction (HCI)**, and **IoT** solutions for medical applications.</h4>
+  <h4>🤖 Interested in developing robust ML models, human-computer interaction (HCI), and IoT solutions for medical applications.</h4>
 </div>
 
 <div align="center">
